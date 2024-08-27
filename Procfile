@@ -1,1 +1,1 @@
-worker: python -m ggn
+worker: python3 -m ggn
